@@ -1,0 +1,57 @@
+Objectifs visés :
+1.	Maitriser la notion de l’informatique
+2.	Les composants d’un système informatique
+3.	Représentation binaire d’informations
+I . Vocabulaire de base :
+1. Information 
+Définition :L’information est l’ensemble des nouvelles communiquées par les médias, mais aussi l’ensemble des renseignements fournis par des images,de texte, des sons, des vidéos ou des mouvements gestuels, on vu de la transmission d’une connaissance.
+Information = Données + Sens
+L’information peut prendre plusieurs formes : texte, image,  son, vidéo,  symbole,…
+Exemple:
+ 
+2. Traitement  
+2.1-Définition : Un traitement est une opération (calcul, traduction …) effectuée sur des informations (Données d’entrée) pour obtenir d’autres informations (Résultats).
+2.2- Schéma simplifié du traitement de  l’information : 
+ 
+2.3- Les types  du traitement de  l’information :
+             a)  Traitement manuel : effectué par l’être humain.
+             b) Traitement semi-automatique : une partie  assurée par l’être humain et l’autre partie réalisée par la machine.
+             c) Traitement automatique : effectué par les moyens technologiques (la machine).
+Remarque : Le terme « Automatique » signifie : Un matériel qui exécute de lui-même certaines opérations définies à l’avance.
+Exemples : 
+ Distributeur Automatique à Café	 
+Guichet automatique bancaire	 
+Porte automatique
+3. Informatique    
+L’informatique est la science du traitement automatique de l’information par ordinateur : Informatique = Information + Automatique
+II. Système informatique :
+Un système informatique est le composé de deux parties essentielles :
+•	 Le matériel (Hardware)
+•	 Le logiciel (Software)
+Exemples :  
+  IPHONE
+ 	IPAD
+ 	ROBOT
+ 	ORDINATEUR
+ 
+III. Codage de l’information :
+1- Codage binaire : C’est le codage avec lequel fonctionnent les ordinateurs. Il consiste à utiliser deux états (0 et 1) pour coder les informations.
+2- Codage décimal : C’est le codage avec lequel L’homme travaille. Il consiste à utiliser 10 chiffres (0, 1, 2, 3, 4, 5, 6, 7, 8, 9).
+3- bit: signifie “binary digit”, c’est-à-dire 0 ou 1.
+4- Octet : L’octet est une unité d’information composée de 8 bits. Il permet de stocker un caractère, telle qu’une lettre, un chiffre …
+                         1 octet = 8 bit.
+                         1 Kilo-octet (Ko) = 1024 octet.
+                         1 Mèga-octet (Mo) =  1024 Ko
+                         1 Giga-octet (Go) =1024 Mo.
+                         1 Téra-octet (To) = 1024 Go.
+5 – Représentation du nombre dans le système binaire: 
+ 
+6 – Représentation du nombre dans le système décimal:
+ 
+Résumé :
+1) Informatique : est une science de traitement automatique de l’information par ordinateur.
+2) Information = Donnée + Sens, 
+L’information peut prendre les formes suivantes : Texte, Son , Image, Vidéo…
+3) Le traitement est un processus de transformation des données d’entrée en données de sortie (Résultats)
+4) Le système informatique se compose de deux parties principales : la partie matérielle et la partie logicielle
+Codage de l’information est nommé base binaire. C’est avec ce codage que fonctionnent les ordinateurs. Il consiste à utiliser deux états (représentés par les chiffres 0 et 1) pour coder les informations.
